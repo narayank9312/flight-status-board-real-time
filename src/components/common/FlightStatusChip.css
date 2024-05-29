@@ -1,0 +1,14 @@
+.flight-status-chip {
+  display: inline-block;
+  padding: 6px 12px;
+  border-radius: 20px;
+  color: #fff;
+  font-size: 0.9em;
+  font-weight: bold;
+  text-align: center;
+}
+
+.chip-text {
+  display: inline-block;
+  vertical-align: middle;
+}

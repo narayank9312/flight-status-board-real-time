@@ -1,0 +1,36 @@
+.flight-detail-card {
+  width: 400px;
+  padding: 20px;
+  border-radius: 8px;
+  background-color: #eaf4ff;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.header {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.airline {
+  font-weight: bold;
+}
+
+.row {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 10px;
+}
+
+.row label {
+  font-weight: bold;
+  margin-right: 10px;
+}
+
+.status-row {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.status-row label {
+  margin: 5px;
+}
